@@ -25,10 +25,9 @@
     display:flex;
     justify-content:center;
     min-height:100vh;
-   background-position: center;
+    background-position: center;
     background-size: cover;
-
-  }
+   }
   
   .login-box .user-box {
     position: relative;
@@ -99,6 +98,7 @@
     background: linear-gradient(90deg, transparent, #000000);
     animation: btn-anim1 1.5s linear infinite;
   }
+ 
   
   @keyframes btn-anim1 {
     0% {
@@ -186,3 +186,8 @@
     color: #67e23e;
     border-radius: 5px;
   }
+  @media(max-width:700px){
+    .login-box{
+        flex-direction:coloumn;
+    }
+}
