@@ -8,23 +8,6 @@ body {
   font-size:20;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   @media(max-width:700px){
     .body{
         flex-direction:coloumn;
