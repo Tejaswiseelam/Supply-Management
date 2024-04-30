@@ -2,11 +2,11 @@
 Welcome to the Supply Management project repository! This project aims to create a web application that encourages users to donate to noble causes seamlessly. With a combination of technology and compassion, Supply Management is more than just a website; it's a platform for positive change.
 
 ## Features
-User-friendly Interface: Intuitive design crafted with HTML and CSS for a seamless user experience.
-Backend Powerhouse: Leveraging Python and Flask for efficient server-side functionalities.
-Email Communication: Integrated SMTP functionality for sending personalized thank-you emails to donors.
-Security Measures: Implementation of secure coding practices to safeguard user data and maintain trust.
-Scalability and Flexibility: Modular design and performance optimization techniques for future expansion.
+User-friendly Interface: Intuitive design crafted with HTML and CSS for a seamless user experience.  
+Backend Powerhouse: Leveraging Python and Flask for efficient server-side functionalities.  
+Email Communication: Integrated SMTP functionality for sending personalized thank-you emails to donors.  
+Security Measures: Implementation of secure coding practices to safeguard user data and maintain trust.  
+Scalability and Flexibility: Modular design and performance optimization techniques for future expansion.  
 
 ## Installation
 ```bash
