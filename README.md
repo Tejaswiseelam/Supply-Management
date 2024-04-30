@@ -9,8 +9,9 @@ Security Measures: Implementation of secure coding practices to safeguard user d
 Scalability and Flexibility: Modular design and performance optimization techniques for future expansion.
 
 ## Installation
+'''bash
 Install dependencies: pip install -r requirements.txt
-
+'''
 ## Contributing
 Contributions are welcome! If you'd like to contribute to the project please open an issue first
 to discuss what you would like to change.
